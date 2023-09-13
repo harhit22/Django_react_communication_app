@@ -1,0 +1,2 @@
+# Django_react_communication_app
+react_django
